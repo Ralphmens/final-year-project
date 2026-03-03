@@ -20,10 +20,10 @@ Based on the research gaps we identified and the search results that provide add
 ### Researcher Information
 | Field | Details |
 | :--- | :--- |
-| **Name** | [Your Name] |
+| **Name** | Raphael Ayeh Mensah |
 | **Department** | Computer Science |
-| **Program** | [B.Sc.] |
-| **Supervisor** | [Julius Y. Ludu] |
+| **Program** | B.Sc |
+| **Supervisor** | Julius Y. Ludu |
 | **Date** | [Submission Date] |
 | **Research Duration** | [e.g., 12-24 months] |
 
@@ -539,4 +539,5 @@ Network packet captures may contain sensitive information. The following safegua
 ---
 
 Would you like me to develop any specific section in greater detail, or would you like assistance with tailoring this template for a specific funding application or university requirement?
+
 
