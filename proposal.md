@@ -538,6 +538,5 @@ Network packet captures may contain sensitive information. The following safegua
 
 ---
 
-Would you like me to develop any specific section in greater detail, or would you like assistance with tailoring this template for a specific funding application or university requirement?
 
 
